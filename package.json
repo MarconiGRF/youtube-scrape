@@ -1,6 +1,6 @@
 {
     "name": "youtube-scrape",
-    "version": "0.2 for YTGBSS",
+    "version": "0.2.0",
     "description": "Scrape YouTube searches",
     "main": "server.js",
     "author": "Herman Fassett",
